@@ -1,0 +1,15 @@
+# VS Code e sistema
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Segredos e arquivos locais
+.env
+.env.*
+*.log
+
+# Arquivos temporarios do Office
+~$*
+
+# Dependencias, caso sejam adicionadas no futuro
+node_modules/
